@@ -1,0 +1,21 @@
+{
+  "name": "full-stack-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanam79/full-stack-ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanam79/full-stack-ecommerce/issues"
+  },
+  "homepage": "https://github.com/alanam79/full-stack-ecommerce#readme"
+}
